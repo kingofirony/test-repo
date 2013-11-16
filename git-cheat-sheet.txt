@@ -1,0 +1,5 @@
+git clone -- Adds a git repository to your hard drive and allows you to access it from your computer
+git pull -- Pulls any recent changes and alters the files on your hard drive to reflect these changes
+git add -- Adds a file on your hard drive to the git repository; git will now be tracking this file(s)
+git commit -m "<message>" -- Commits any changes; Tells git that a change has been made; A message must be used, typically one that tells other users what changes have been made in this commit.
+git push -- Adds the changes to the repository for others to access.
